@@ -1,1 +1,2 @@
-
+Script for Jenkins pipeline
+ 
